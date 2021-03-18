@@ -41,6 +41,7 @@ body {
 
 .main {
     display: flex;
+    height: 80vh;
 }
 
 .main-contenido {
@@ -67,6 +68,7 @@ body {
 .main-sidebar li {
     border-bottom: solid .3rem #444;
     padding-left: .2rem;
+    list-style: none;
     
 }
 
@@ -77,6 +79,10 @@ body {
 
 .main-sidebar li:hover {
     background-color: #999;
+}
+
+.footer {
+    display: flexbox;
 }
 
 
