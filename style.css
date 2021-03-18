@@ -17,7 +17,7 @@ body {
     font-size: 2rem;
     background-color: #065EBF;
     color: white;
-    border-bottom: #175294 .5rem solid;
+    border-bottom: #276E8F .5rem solid;
     text-align: center;
 }
 
@@ -26,6 +26,11 @@ body {
     background-color: #333;
     text-decoration: none;
     list-style: none;
+<<<<<<< HEAD
+=======
+    border-bottom: 0 solid #276E8F;
+    
+>>>>>>> cabecera
 }
 
 
