@@ -21,6 +21,24 @@ body {
     text-align: center;
 }
 
+.titulo ul {
+    display: flex;
+    background-color: #333;
+    text-decoration: none;
+    list-style: none;
+    
+}
+
+.titulo ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 0 2rem;
+}
+
+.titulo ul li a:hover{
+    background-color: #178104;
+}
+
 .main {
     display: flex;
 }
