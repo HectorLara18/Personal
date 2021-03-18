@@ -41,7 +41,7 @@ body {
 
 .main {
     display: flex;
-    height: 80vh;
+    height: 120vh;
 }
 
 .main-contenido {
@@ -82,7 +82,8 @@ body {
 }
 
 .footer {
-    display: flexbox;
+    height: 10vh;
+    display: block;
 }
 
 
